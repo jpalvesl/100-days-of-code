@@ -1,0 +1,9 @@
+# 100 Days Of Code - Round 1
+
+### Dia 0: 4 de julho, 2020
+
+**Progresso do dia:** Refatorei alguns códigos para que seja mais simples fazer com que os erros nos comandos tenham ponto único de falha, no lugar de duplicar código de verificação que poderia dar problema no futuro;
+
+**Aprendizados:** Apesar de no inicio parecer dar mais trabalho separar cada comando em um arquivo único a flexibilidade que isso da pra o código é muito grande além de melhorar bastante a legibilidade.
+
+**Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/d41246f910764fbb2f4de219e817cccf06fe714e)
