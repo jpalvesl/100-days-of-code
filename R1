@@ -7,3 +7,11 @@
 **Aprendizados:** Apesar de no inicio parecer dar mais trabalho separar cada comando em um arquivo único a flexibilidade que isso da pra o código é muito grande além de melhorar bastante a legibilidade.
 
 **Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/d41246f910764fbb2f4de219e817cccf06fe714e)
+
+### Dia 1: 5 de julho, 2020
+
+**Progresso do dia:** Transformei o código de rolar um dado comum em algo mais complexo, que você pode escolher que tipo de dado vai rodar e quantas vezes vai rodar e criei um gerador de número aleatórios em determinado intervalo
+
+**Aprendizados:** A importância de após o código ter funcionado você deixar ele mais simples e facil de ler, tanto documentando quanto refatorando o código 
+
+**Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/1fae27a991f810423bfcedd3da339df42719d243)
