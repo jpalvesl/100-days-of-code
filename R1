@@ -15,3 +15,11 @@
 **Aprendizados:** A importância de após o código ter funcionado você deixar ele mais simples e facil de ler, tanto documentando quanto refatorando o código 
 
 **Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/1fae27a991f810423bfcedd3da339df42719d243)
+
+### Dia 2: 6 de julho, 2020
+
+**Progresso do dia:** Criando comando no qual o bot edita uma foto e retorna para o usuário e iniciando o comando de ajuda, que vai conter todos os comandos que o bot possui.
+
+**Aprendizados:** Descobri uma nova biblioteca no javascript o jimp que mexe com manipulação de imagens, eu só tinha tocado em algo desse tipo em 2018 em python e foi desenvolvendo os próprios filtros, não usando eles já prontos e otimizados então está sendo uma experiência bem daora.
+
+**Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/33f9aace7f584b49b0a1c5fc18f01617379a13e7)
