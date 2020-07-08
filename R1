@@ -23,3 +23,11 @@
 **Aprendizados:** Descobri uma nova biblioteca no javascript o jimp que mexe com manipulação de imagens, eu só tinha tocado em algo desse tipo em 2018 em python e foi desenvolvendo os próprios filtros, não usando eles já prontos e otimizados então está sendo uma experiência bem daora.
 
 **Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/33f9aace7f584b49b0a1c5fc18f01617379a13e7)
+
+### Dia 3: 7 de julho, 2020
+
+**Progresso do dia:** Hoje eu criei um comando que faz o bot pesquisar um termo ou frase que você mandou e retornar um gif.
+
+**Aprendizados:** Pra fazer esse comando eu tentei usar alguma bibliotecas do nodejs, porém todas elas estavam retornando algum erro, o porque eu até pesquisei, mas não encontrei, no fim usei uma API chamada Tenor, que é a mesma que o discord usa para buscar os gifs e foi muito simples usar o endpoint que ela disponibiliza.
+
+**Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/48fd8d6a51f7f8e984d7f2403ea8ccd8877fe3881)
