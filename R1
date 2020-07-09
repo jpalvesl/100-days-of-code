@@ -31,3 +31,11 @@
 **Aprendizados:** Pra fazer esse comando eu tentei usar alguma bibliotecas do nodejs, porém todas elas estavam retornando algum erro, o porque eu até pesquisei, mas não encontrei, no fim usei uma API chamada Tenor, que é a mesma que o discord usa para buscar os gifs e foi muito simples usar o endpoint que ela disponibiliza.
 
 **Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/48fd8d6a51f7f8e984d7f2403ea8ccd8877fe3881)
+
+### Dia 4: 8 de julho, 2020
+
+**Progresso do dia:** Hoje eu adicionei o comando de ajuda no bot, que atualmente apenas lista os comandos existentes no bot, também modifiquei o comando de gif e agora caso nada seja pesquisado vai retornar um gif aleatório, e o comando filter agora é aplicado em imagens enviadas para o discord ou se passada a url da imagem como primeiro parametro apos o comando, também estudei um pouco de C, pra voltar a estudar estrutura de dados e aprender algumas novas que não foram abordadas na cadeira da universidade.
+
+**Aprendizados:** Ter uma guia para seguir deixa as coisas bem mais faceis, agora sinto que consigo produzir mais nesse bot, por causa do comando help que tem comando ainda não implementados e isso faz com que eu saiba o que devo fazer logo de cara, e outro aprendizado é que é muito bom pra você como programador, programar em algo mais baixo nível como C, visto que linguagens como Javascript e python devido ao grau de abstração podem te deixar bem acomodado.
+
+**Link do trabalho:** [Kurisu bot](https://github.com/jpalvesl/kurisu/commit/d7d23b7b11ce8d633a0261789c770e6b731ef966) e [Estrutura de dados](https://ruandg.github.io/apostilaC_ED.html)
